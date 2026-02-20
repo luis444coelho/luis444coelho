@@ -115,7 +115,7 @@
     </thead>
     <tr>
       <td align="center" valign="center">Sistemas<br>Operativos</td>
-      <td align="center" valign="center">Operative<br>Sistems</td>
+      <td align="center" valign="center">Operative<br>Systems</td>
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI3">Sistema Servidor/Cliente e execução de comandos sobre dataset <br>Server/Client System</a></td>
     </tr>
     <tr>
