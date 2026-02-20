@@ -28,7 +28,7 @@
     Object-Oriented Programming Languages
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=cpp,go,java&perline=10">
+    <img src="https://skillicons.dev/icons?i=cpp,java&perline=10">
   </td>
 </tr>
 
@@ -37,7 +37,7 @@
     Scripting and Markup Languages
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=html,javascript,markdown,latex,python,pug&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,javascript,markdown,latex,python&perline=10">
   </td>
 </tr>
 
@@ -64,7 +64,7 @@
     IDEs
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode&perline=10">
+    <img src="https://skillicons.dev/icons?i=idea,vscode&perline=10">
   </td>
 </tr>
 
@@ -73,7 +73,7 @@
     Other Tools
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,bots,githubactions,maven,nodejs,postman,regex&perline=10">
+    <img src="https://skillicons.dev/icons?i=docke,maven,nodejs,postman,regex&perline=10">
   </td>
 </table>
 
