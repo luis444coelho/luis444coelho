@@ -77,8 +77,6 @@
   </td>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-190&hide=jupyter%20notebook,html,roff&layout=donut&theme=vue-dark" alt="Henrique-190's Most Used Languages"/>
-
 
 ## 🎓 Bachelor Projects
 <details>
@@ -92,22 +90,10 @@
       <tr>
         <td align="center" valign="center">Laboratórios de<br>Informática I</td>
         <td align="center" valign="center">Informatics<br>Labs I</td>
-        <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI1">Excitebike</a></td>
+        <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI1">Immutable Towers</a></td>
       </tr>
   </details>
-</details>
-
-
-<br>
-<details>
   <summary>2nd Year</summary>
-    <table>
-      <thead>
-        <tr>
-          <th align="center" colspan="3">1st Semester</th>
-        </tr>
-      </thead>
-    </table>
     <br><br>
     <table>
       <thead>
