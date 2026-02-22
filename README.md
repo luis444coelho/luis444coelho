@@ -1,6 +1,6 @@
 ## 👋 Personal Information
 🏠 Amares, Portugal  
-🎓 BSc Computer Science @ Universidade do Minho, Braga  
+🎓 BSc Software Engineer @ Universidade do Minho, Braga  
 
 
 ## 💻 Skills:
@@ -189,7 +189,7 @@
       <td align="center" valign="center">Comunicações<br>por Computador</td>
       <td align="center" valign="center">Computer<br>Communications</td>
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/Comunicacoes-por-Computador">Simulação de comunicações TCP e UDP<br>Communication System using TCP and UDP protocols</a></td>
-      <td align="center" valign="center">-</td>
+      <td align="center" valign="center">16</td>
     </tr>
     <tr>
       <td align="center" valign="center">Desenvolvimento de Sistemas<br>de Software</td>
