@@ -215,6 +215,35 @@
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/Sistemas-Distribuidos">Plataforma de gestão de eventos <br>Event Management Platform</a></td>
       <td align="center" valign="center">19</td>
     </tr>
+  <thead>
+      <tr>
+        <th align="center" colspan="4">2nd Semester</th>
+      </tr>
+    </thead>
+    <tr>
+      <th align="center">Course (PT)</th>
+      <th align="center">Course (EN)</th>
+      <th align="center">Project</th>
+      <th align="center">Grade</th>
+    </tr>
+    <tr>
+      <td align="center" valign="center">Aprendizagem e Decisão Inteligentes</td>
+      <td align="center" valign="center">Intelligent Learning and Decision Making</td>
+      <td align="center" valign="center"><a href="https://github.com/luis444coelho/ADI-G22">Análise e exploração de datasets usando Machine Learning</a></td>
+      <td align="center" valign="center">—</td>
+    </tr>
+    <tr>
+      <td align="center" valign="center">Engenharia<br>Web</td>
+      <td align="center" valign="center">Web<br>Engineering</td>
+      <td align="center" valign="center"><a href="https://github.com/luis444coelho/EngWeb2026">Plataforma de Recursos Educativos</a></td>
+      <td align="center" valign="center">18</td>
+    </tr>
+    <tr>
+      <td align="center" valign="center">Laboratórios de<br>Informática VI</td>
+      <td align="center" valign="center">Informatics<br>Labs VI</td>
+      <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI4-G1">Mini-Formiga</a><br>Sistema de Gestão de uma Cadeia de Lojas de Conveniência</td>
+      <td align="center" valign="center">—</td>
+    </tr>
   </table>
 </details>
 
