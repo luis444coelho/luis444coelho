@@ -244,6 +244,17 @@
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI4-G1">Mini-Formiga</a><br>Sistema de Gestão de uma Cadeia de Lojas de Conveniência</td>
       <td align="center" valign="center">—</td>
     </tr>
+    <tr>
+    <td align="center" valign="center">Segurança de Sistemas<br>Informáticos</td>
+    <td align="center" valign="center">Information Systems<br>Security</td>
+    <td align="center" valign="center">
+      <a href="https://github.com/luis444coelho/Seguranca-de-Sistemas-Informaticos">
+        Chat Seguro E2EE
+      </a><br>
+      Sistema de conversação cliente-servidor com cifragem ponta-a-ponta, PKI própria, grupos, mensagens offline e modo P2P
+    </td>
+    <td align="center" valign="center">16</td>
+  </tr>
   </table>
 </details>
 
