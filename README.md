@@ -255,6 +255,29 @@
     </td>
     <td align="center" valign="center">16</td>
   </tr>
+    <tr>
+    <td align="center" valign="center">Processamento de<br>Linguagens</td>
+    <td align="center" valign="center">Language<br>Processing</td>
+    <td align="center" valign="center">
+      <a href="https://github.com/luis444coelho/Processamento-de-Linguagens">
+        Compilador Fortran 77
+      </a><br>
+      Compilador para um subconjunto de Fortran 77 desenvolvido em Python com PLY, incluindo análise léxica, sintática, semântica, geração de código intermédio, otimizações e geração de código EWVM
+    </td>
+    <td align="center" valign="center">—</td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="center">Computação<br>Gráfica</td>
+    <td align="center" valign="center">Computer<br>Graphics</td>
+    <td align="center" valign="center">
+      <a href="https://github.com/luis444coelho/Computacao-Grafica">
+        Motor Gráfico 3D
+      </a><br>
+      Desenvolvimento de um motor gráfico 3D em C++, incluindo geração de modelos, transformações geométricas, iluminação, animações e renderização através de OpenGL
+    </td>
+    <td align="center" valign="center">—</td>
+  </tr>
   </table>
 </details>
 
