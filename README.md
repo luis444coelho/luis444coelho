@@ -230,7 +230,7 @@
       <td align="center" valign="center">Aprendizagem e Decisão Inteligentes</td>
       <td align="center" valign="center">Intelligent Learning and Decision Making</td>
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/ADI-G22">Análise e exploração de datasets usando Machine Learning</a></td>
-      <td align="center" valign="center">—</td>
+      <td align="center" valign="center">18</td>
     </tr>
     <tr>
       <td align="center" valign="center">Engenharia<br>Web</td>
@@ -242,7 +242,7 @@
       <td align="center" valign="center">Laboratórios de<br>Informática VI</td>
       <td align="center" valign="center">Informatics<br>Labs VI</td>
       <td align="center" valign="center"><a href="https://github.com/luis444coelho/LI4-G1">Mini-Formiga</a><br>Sistema de Gestão de uma Cadeia de Lojas de Conveniência</td>
-      <td align="center" valign="center">—</td>
+      <td align="center" valign="center">15</td>
     </tr>
     <tr>
     <td align="center" valign="center">Segurança de Sistemas<br>Informáticos</td>
@@ -264,7 +264,7 @@
       </a><br>
       Compilador para um subconjunto de Fortran 77 desenvolvido em Python com PLY, incluindo análise léxica, sintática, semântica, geração de código intermédio, otimizações e geração de código EWVM
     </td>
-    <td align="center" valign="center">—</td>
+    <td align="center" valign="center">18</td>
   </tr>
 
   <tr>
@@ -276,7 +276,7 @@
       </a><br>
       Desenvolvimento de um motor gráfico 3D em C++, incluindo geração de modelos, transformações geométricas, iluminação, animações e renderização através de OpenGL
     </td>
-    <td align="center" valign="center">—</td>
+    <td align="center" valign="center">18</td>
   </tr>
   </table>
 </details>
